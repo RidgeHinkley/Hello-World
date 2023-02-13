@@ -1,2 +1,6 @@
-# Hello-World
-My first website from Scratch for Code Fellows
+# My First Website
+
+Making a list of where we are:
+
+* Making changes, starting ACP  
+
